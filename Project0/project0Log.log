@@ -1,0 +1,211 @@
+2021-07-28 03:27:02 INFO  application:28 - The main() method is called
+2021-07-28 03:27:02 INFO  application:69 - The doWork() method is called
+2021-07-28 03:27:02 WARN  application:32 - Warning message
+2021-07-28 03:27:02 ERROR application:33 - Error message
+2021-07-28 03:28:35 INFO  application:28 - The main() method is called
+2021-07-28 03:28:35 INFO  application:69 - The doWork() method is called
+2021-07-28 03:28:35 WARN  application:32 - Warning message
+2021-07-28 03:28:35 ERROR application:33 - Error message
+2021-07-28 03:30:05 INFO  application:28 - The main() method is called
+2021-07-28 03:30:05 INFO  application:68 - The doWork() method is called
+2021-07-28 03:30:05 INFO  application:32 - Hello World Logging is now functional
+2021-07-28 03:35:16 INFO  application:62 - The doWork() method is called
+2021-07-28 03:35:16 INFO  application:28 - Hello World Logging is now functional
+2021-07-28 03:36:11 INFO  application:27 - Logging is now fully operational
+2021-07-28 03:36:16 INFO  application:27 - Logging is now fully operational
+2021-07-28 03:36:24 INFO  application:91 - User Logged in
+2021-07-28 03:40:39 INFO  application:26 - Logging is now fully operational
+2021-07-28 03:40:45 INFO  application:90 - User Logged in
+2021-07-28 03:40:53 INFO  application:198 - Amount Deposited
+2021-07-28 03:41:10 INFO  application:26 - Logging is now fully operational
+2021-07-28 04:29:19 INFO  application:26 - Logging is now fully operational
+2021-07-28 04:33:18 INFO  application:26 - Logging is now fully operational
+2021-07-28 04:33:27 INFO  application:99 - Customer Created
+2021-07-28 04:33:30 INFO  application:26 - Logging is now fully operational
+2021-07-28 04:40:22 INFO  application:34 - Logging is now fully operational
+2021-07-28 04:40:30 INFO  application:99 - User Logged in
+2021-07-28 04:45:21 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:10:12 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:10:17 INFO  application:95 - User Logged in
+2021-07-28 05:17:38 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:17:43 INFO  application:94 - User Logged in
+2021-07-28 05:18:07 INFO  application:202 - Amount Deposited
+2021-07-28 05:19:40 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:19:48 INFO  application:94 - User Logged in
+2021-07-28 05:19:54 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:21:42 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:21:46 INFO  application:94 - User Logged in
+2021-07-28 05:22:10 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:22:13 INFO  application:94 - User Logged in
+2021-07-28 05:22:19 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:23:17 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:23:21 INFO  application:94 - User Logged in
+2021-07-28 05:23:28 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:24:54 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:25:09 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:25:16 INFO  application:94 - User Logged in
+2021-07-28 05:25:22 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:28:30 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:28:42 INFO  application:94 - User Logged in
+2021-07-28 05:28:52 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:29:03 INFO  application:215 - Amount Withdrawn
+2021-07-28 05:31:20 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:31:28 INFO  application:103 - Customer Created
+2021-07-28 05:32:56 INFO  application:34 - Logging is now fully operational
+2021-07-28 05:33:01 INFO  application:94 - User Logged in
+2021-07-28 07:50:15 INFO  application:34 - Logging is now fully operational
+2021-07-28 07:50:15 INFO  application:34 - Logging is now fully operational
+2021-07-28 07:50:26 INFO  application:34 - Logging is now fully operational
+2021-07-28 12:30:17 INFO  application:34 - Logging is now fully operational
+2021-07-29 20:32:24 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:32:33 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:32:48 INFO  application:95 - User Logged in
+2021-07-29 20:34:56 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:35:03 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:35:07 INFO  application:95 - User Logged in
+2021-07-29 20:36:13 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:36:18 INFO  application:95 - User Logged in
+2021-07-29 20:41:48 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:41:55 INFO  application:95 - User Logged in
+2021-07-29 20:42:14 INFO  application:258 - User promoted to administrator
+2021-07-29 20:42:14 INFO  application:271 - List of users
+2021-07-29 20:43:24 INFO  application:95 - User Logged in
+2021-07-29 20:43:27 INFO  application:271 - List of users
+2021-07-29 20:44:54 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:44:59 INFO  application:95 - User Logged in
+2021-07-29 20:45:06 INFO  application:258 - User promoted to administrator
+2021-07-29 20:45:06 INFO  application:271 - List of users
+2021-07-29 20:46:49 INFO  application:35 - Logging is now fully operational
+2021-07-29 20:46:55 INFO  application:95 - User Logged in
+2021-07-29 20:46:57 INFO  application:266 - List of users
+2021-07-29 20:47:08 INFO  application:253 - User promoted to administrator
+2021-07-29 20:47:08 INFO  application:266 - List of users
+2021-07-31 10:30:04 INFO  application:47 - Logging is now fully operational
+2021-07-31 10:30:09 INFO  application:107 - User Logged in
+2021-07-31 10:30:21 INFO  application:107 - User Logged in
+2021-07-31 10:30:24 INFO  application:223 - Amount Deposited
+2021-07-31 10:33:00 INFO  application:45 - Logging is now fully operational
+2021-07-31 10:33:04 INFO  application:105 - User Logged in
+2021-07-31 10:33:08 INFO  application:221 - Amount Deposited
+2021-07-31 10:33:15 INFO  application:234 - Amount Withdrawn
+2021-07-31 10:37:15 INFO  application:45 - Logging is now fully operational
+2021-07-31 10:37:21 INFO  application:105 - User Logged in
+2021-07-31 10:37:27 INFO  application:221 - Amount Deposited
+2021-07-31 10:42:58 INFO  application:45 - Logging is now fully operational
+2021-07-31 10:43:02 INFO  application:105 - User Logged in
+2021-07-31 10:43:09 INFO  application:253 - Amount transfered
+2021-07-31 15:39:54 INFO  application:33 - Logging is now fully operational
+2021-07-31 15:40:00 INFO  application:75 - User Logged in
+2021-07-31 15:49:31 INFO  application:33 - Logging is now fully operational
+2021-07-31 15:49:38 INFO  application:98 - Customer Created
+2021-07-31 18:02:42 INFO  application:23 - Logging is now fully operational
+2021-07-31 18:02:57 INFO  application:23 - Logging is now fully operational
+2021-07-31 18:03:02 INFO  application:60 - User Logged in
+2021-07-31 18:03:50 INFO  application:23 - Logging is now fully operational
+2021-07-31 18:03:55 INFO  application:60 - User Logged in
+2021-07-31 18:03:59 INFO  application:149 - Amount Deposited
+2021-07-31 18:04:28 INFO  application:149 - Amount Deposited
+2021-07-31 18:23:56 INFO  Application:23 - Logging is now fully operational
+2021-07-31 18:25:23 INFO  Application:23 - Logging is now fully operational
+2021-07-31 18:26:35 INFO  Application:23 - Logging is now fully operational
+2021-07-31 18:27:58 INFO  Application:23 - Logging is now fully operational
+2021-07-31 18:28:41 INFO  Application:23 - Logging is now fully operational
+2021-07-31 18:34:45 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:43:11 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:45:53 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:46:02 INFO  Application:77 - Customer Created
+2021-07-31 18:53:00 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:56:50 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:57:48 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:58:33 INFO  Application:24 - Logging is now fully operational
+2021-07-31 18:58:38 INFO  Application:61 - User Logged in
+2021-07-31 19:00:04 INFO  Application:24 - Logging is now fully operational
+2021-07-31 19:00:59 INFO  Application:61 - User Logged in
+2021-07-31 19:01:31 INFO  Application:77 - Customer Created
+2021-07-31 19:02:23 INFO  Application:77 - Customer Created
+2021-07-31 19:02:35 INFO  Application:24 - Logging is now fully operational
+2021-07-31 19:02:39 INFO  Application:61 - User Logged in
+2021-07-31 19:02:52 INFO  Application:77 - Customer Created
+2021-07-31 19:03:23 INFO  Application:61 - User Logged in
+2021-07-31 19:03:40 INFO  Application:150 - Amount Deposited
+2021-07-31 19:03:47 INFO  Application:162 - Amount Withdrawn
+2021-07-31 19:03:51 INFO  Application:162 - Amount Withdrawn
+2021-07-31 19:04:28 INFO  Application:61 - User Logged in
+2021-07-31 19:05:39 INFO  Application:211 - List of users
+2021-07-31 19:05:53 INFO  Application:61 - User Logged in
+2021-07-31 19:05:56 INFO  Application:211 - List of users
+2021-07-31 19:05:58 INFO  Application:198 - User promoted to administrator
+2021-07-31 19:05:58 INFO  Application:211 - List of users
+2021-07-31 19:06:51 INFO  Application:61 - User Logged in
+2021-07-31 19:08:13 INFO  Application:61 - User Logged in
+2021-07-31 19:08:23 INFO  Application:181 - Amount transfered
+2021-07-31 19:08:36 INFO  Application:211 - List of users
+2021-08-01 20:16:47 INFO  Application:24 - Logging is now fully operational
+2021-08-01 20:17:11 INFO  Application:61 - User Logged in
+2021-08-01 20:17:22 INFO  Application:150 - Amount Deposited
+2021-08-01 20:17:29 INFO  Application:162 - Amount Withdrawn
+2021-08-01 20:17:45 INFO  Application:181 - Amount transfered
+2021-08-01 20:20:46 INFO  Application:24 - Logging is now fully operational
+2021-08-01 20:20:50 INFO  Application:61 - User Logged in
+2021-08-01 20:20:53 INFO  Application:214 - List of users
+2021-08-01 20:21:15 INFO  Application:153 - Amount Deposited
+2021-08-01 20:21:18 INFO  Application:214 - List of users
+2021-08-01 20:30:15 INFO  Application:24 - Logging is now fully operational
+2021-08-01 20:30:23 INFO  Application:61 - User Logged in
+2021-08-01 20:30:53 INFO  Application:153 - Amount Deposited
+2021-08-01 20:30:59 INFO  Application:165 - Amount Withdrawn
+2021-08-01 20:31:15 INFO  Application:165 - Amount Withdrawn
+2021-08-01 20:31:29 INFO  Application:214 - List of users
+2021-08-01 20:32:22 INFO  Application:24 - Logging is now fully operational
+2021-08-01 20:32:27 INFO  Application:61 - User Logged in
+2021-08-01 20:32:33 INFO  Application:184 - Amount transfered
+2021-08-01 21:37:26 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:37:45 INFO  Application:61 - User Logged in
+2021-08-01 21:37:59 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:38:08 INFO  Application:77 - Customer Created
+2021-08-01 21:38:22 INFO  Application:61 - User Logged in
+2021-08-01 21:38:33 INFO  Application:153 - Amount Deposited
+2021-08-01 21:39:05 INFO  Application:165 - Amount Withdrawn
+2021-08-01 21:39:13 INFO  Application:165 - Amount Withdrawn
+2021-08-01 21:39:42 INFO  Application:184 - Amount transfered
+2021-08-01 21:40:03 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:40:19 INFO  Application:61 - User Logged in
+2021-08-01 21:40:26 INFO  Application:214 - List of users
+2021-08-01 21:40:33 INFO  Application:153 - Amount Deposited
+2021-08-01 21:40:54 INFO  Application:214 - List of users
+2021-08-01 21:41:18 INFO  Application:201 - User promoted to administrator
+2021-08-01 21:41:23 INFO  Application:214 - List of users
+2021-08-01 21:41:33 INFO  Application:214 - List of users
+2021-08-01 21:41:40 INFO  Application:214 - List of users
+2021-08-01 21:44:16 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:44:16 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:44:27 INFO  Application:61 - User Logged in
+2021-08-01 21:44:54 INFO  Application:61 - User Logged in
+2021-08-01 21:45:11 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:45:22 INFO  Application:61 - User Logged in
+2021-08-01 21:45:27 INFO  Application:153 - Amount Deposited
+2021-08-01 21:45:52 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:45:56 INFO  Application:61 - User Logged in
+2021-08-01 21:50:07 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:50:11 INFO  Application:61 - User Logged in
+2021-08-01 21:50:17 INFO  Application:153 - Amount Deposited
+2021-08-01 21:50:47 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:50:51 INFO  Application:61 - User Logged in
+2021-08-01 21:50:53 INFO  Application:214 - List of users
+2021-08-01 21:55:33 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:55:42 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:55:47 INFO  Application:61 - User Logged in
+2021-08-01 21:55:53 INFO  Application:153 - Amount Deposited
+2021-08-01 21:56:08 INFO  Application:214 - List of users
+2021-08-01 21:57:09 INFO  Application:24 - Logging is now fully operational
+2021-08-01 21:57:14 INFO  Application:61 - User Logged in
+2021-08-01 21:57:19 INFO  Application:153 - Amount Deposited
+2021-08-01 21:57:21 INFO  Application:214 - List of users
+2021-08-01 22:03:03 INFO  Application:24 - Logging is now fully operational
+2021-08-01 22:03:17 INFO  Application:61 - User Logged in
+2021-08-01 22:03:25 INFO  Application:153 - Amount Deposited
+2021-08-01 22:03:36 INFO  Application:165 - Amount Withdrawn
+2021-08-01 22:03:51 INFO  Application:184 - Amount transfered
+2021-08-01 22:06:38 INFO  Application:24 - Logging is now fully operational
+2021-08-01 22:06:43 INFO  Application:61 - User Logged in
+2021-08-01 22:06:45 INFO  Application:214 - List of users
