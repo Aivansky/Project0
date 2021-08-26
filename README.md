@@ -30,6 +30,24 @@ To-do List:
 add savings and checking account types,
 add interest rate 
 # Getting Started
-Simply reconfigure the properties file to your personal database, populate it, and then launch the application from the IDE.
+First clone the repository or download the zip and then import it to your IDE of choice, this project was  developed in Spring
+![image2](https://user-images.githubusercontent.com/51238426/130885095-721bfe0d-ac3f-4c79-af93-c750bdfc8d6c.PNG)
+
+Then simply reconfigure the properties file to your personal database, populate it if necessary
+
+![image3](https://user-images.githubusercontent.com/51238426/130885107-8aac9cb1-c1d5-435f-88c7-d0f88a6401d5.PNG)
+
+Finnaly launch it by running the program as a java application
+
+![image4](https://user-images.githubusercontent.com/51238426/130885146-5f2e4dba-c23c-4f6f-804d-1f29e6d7328b.PNG)
+
+
+# Usage
+First log in if there is any employee/admin data already or create a new user and then log in
+From there you are given a list of commands for example press 1 on the console to view the balance
+,any action can be taken and saved throughout the session so have fun enjoy the banking application
+
+![image1](https://user-images.githubusercontent.com/51238426/130884568-b0592ad8-1cf0-4fa2-aa1a-b4e63489663d.PNG)
+
 # License
 MIT License
