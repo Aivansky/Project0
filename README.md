@@ -33,7 +33,9 @@ add interest rate
 First clone the repository or download the zip and then import it to your IDE of choice
 ![image2](https://user-images.githubusercontent.com/51238426/130885095-721bfe0d-ac3f-4c79-af93-c750bdfc8d6c.PNG)
 
-Then simply reconfigure the properties file to your personal database, populate it if necessary
+Then simply reconfigure the properties file to your personal database, populate it if necessary,
+
+you can use the SQL commands file inside the proj to help populate your schema.
 
 ![image3](https://user-images.githubusercontent.com/51238426/130885107-8aac9cb1-c1d5-435f-88c7-d0f88a6401d5.PNG)
 
