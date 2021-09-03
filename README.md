@@ -43,9 +43,11 @@ Finnaly launch it by running the program as a java application
 
 
 # Usage
-First log in if there is any employee/admin data already or create a new user and then log in
-From there you are given a list of commands for example press 1 on the console to view the balance
-,any action can be taken and saved throughout the session so have fun enjoy the banking application
+First log in if there is any employee/admin data already or create a new user and then log in.
+
+From there you are given a list of commands for example press 1 on the console to view the balance,
+
+any action can be taken and saved throughout the session so have fun enjoy the banking application
 
 ![image1](https://user-images.githubusercontent.com/51238426/130884568-b0592ad8-1cf0-4fa2-aa1a-b4e63489663d.PNG)
 
